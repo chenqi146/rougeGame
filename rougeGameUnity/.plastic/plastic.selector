@@ -1,0 +1,4 @@
+repository "rougeGameUnity@chenqi146@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
